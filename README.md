@@ -8,5 +8,5 @@ The player plays against the computer, the morpion game.<br>
 The program predicts the best move to play in function of what move the player made.<br>
 <h4>PS:</h4> 
 <li>unbeatable because i made it like this. :) </li>
-<li>Don't pay attention to the clarity and cleaniness of my code. I wrote it 2 years ago </li>
+<li>Don't pay attention to the clarity and cleaniness of my code. I wrote it in 2020 </li>
 </p>
